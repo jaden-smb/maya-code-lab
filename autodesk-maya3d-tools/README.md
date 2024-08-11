@@ -19,7 +19,3 @@ This script provides a custom Maya tool to visualize and manage various types of
 2. **Execute the Script**: Copy the script into Maya's script editor or save it as a Python file (`.py`).
 
 3. **Run the Script**: Execute the script within Maya. The `SimpleSceneVisualizerWindow` will appear, allowing you to interact with and manage scene objects.
-
-```python
-if __name__ == "__main__":
-    show()
