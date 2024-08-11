@@ -4,13 +4,13 @@ This repository contains a collection of Python scripts designed to enhance and 
 
 ## Contents
 
-- **Scene Visualizer**: A script that provides a custom UI for visualizing and managing different types of objects in a Maya scene. It allows you to categorize, select, and export objects into a new scene.
+- **Create new scene based previous**: A script that provides a custom UI for visualizing and managing different types of objects in a Maya scene. It allows you to categorize, select, and export objects into a new scene.
 
 ## Installation
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/maya-3d-scripts.git
+    git clone https://github.com/jaden-smb/maya-code-lab.git
     ```
    or download the ZIP file directly from GitHub.
 
